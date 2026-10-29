@@ -1,4 +1,4 @@
-# Hi, I'm Daredevil 👋
+# Hi, I'm Devarsh Doshi 👋
 
 I'm a software engineer who enjoys building **scalable backend systems, developer tools, and full-stack applications**. My projects focus on solving practical problems with clean APIs, distributed architecture, automation, and real-time collaboration.
 
